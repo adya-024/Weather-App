@@ -3,11 +3,17 @@
 
 
 Company: CODTECH IT SOLUTIONS
+
 Name: ADYASHA ADITI MOHANTY
+
 Intern ID: CT04DG12
+
 Domain Name: Java Programming
+
 Duration: 4 Weeks
+
 Mentor: NEELA SANTOSH
+
 
 This Java-based Weather API application fetches real-time weather data from a public REST API and displays it in a clean and structured format. It is designed to help users retrieve current weather details such as temperature, humidity, wind speed, and weather conditions for any specified city. This utility is perfect for learners and developers looking to explore Java’s capabilities in API integration and JSON parsing.
 
