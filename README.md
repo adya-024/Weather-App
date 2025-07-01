@@ -20,9 +20,13 @@ This Java-based Weather API application fetches real-time weather data from a pu
 The Weather API application includes the following features:
 
 City-Based Weather Search: Enter any city name to fetch its latest weather information.
+
 Real-Time Data: Retrieves up-to-date weather statistics using a public weather API.
+
 Structured Display: Displays temperature, humidity, pressure, weather description, and wind speed in a readable format.
+
 Error Handling: Informs users about invalid city names or network issues gracefully.
+
 JSON Parsing: Efficiently parses JSON response using built-in or third-party libraries (e.g., org.json or Gson).
 
 Future Enhancements
